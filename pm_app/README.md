@@ -4,7 +4,11 @@ This is a project managemet app that allows users to create new projects and vie
 
 ## Live Link
 
+* Click sign up or use email: test@test.com password: 123456
+
 https://my-project-managment-app.firebaseapp.com/
+
+
 
 ## Tech Used
 
