@@ -1,6 +1,6 @@
 # React-Redux-Firebase-Project-Managment-App
 
-This is a project managemet app that allows you to create new projects and view projects created by other users
+This is a project managemet app that allows users to create new projects and view projects created by other users
 
 ## Live Link
 
