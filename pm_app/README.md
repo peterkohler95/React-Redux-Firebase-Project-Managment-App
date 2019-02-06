@@ -9,7 +9,7 @@ https://my-project-managment-app.firebaseapp.com/
 ## Tech Used
 
 * React-Redux
-* Firebase auth, Firebase Cloud Database, Firebase Functions
+* Firebase Auth, Firebase Cloud Database, Firebase Functions
 
 ## What I Learned
 
